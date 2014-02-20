@@ -22,7 +22,8 @@
 
 @media only screen and ( max-width : 1024px ){
 
-.grid .col4 {width: 48.36%;}
+.grid .col4, .grid .col3 {width: 48.36%;}
+
 }
 
 
